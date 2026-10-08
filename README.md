@@ -68,12 +68,8 @@ pip install -r requirements.txt
 Then run the Streamlit application:
 
 ```bash
-streamlit run app.py
+python3 -m streamlit run app.py
 ```
-
-## Project Status
-
-This project is currently under development as a third-year academic minor project.
 
 ## Team Members
 
